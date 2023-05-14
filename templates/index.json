@@ -83,6 +83,7 @@
     "19723ab1-e3e2-452d-8315-ecec43b68b32": {
       "type": "image-banner",
       "settings": {
+        "image": "shopify:\/\/shop_images\/green-leaf-stems-against-a-blue-background.jpg",
         "image_overlay_opacity": 0,
         "image_height": "small",
         "desktop_content_position": "middle-center",
