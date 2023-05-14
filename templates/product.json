@@ -55,6 +55,13 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "4c75fa57-5766-4d55-9412-c86aef246682": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.item_info.value }}",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
@@ -66,7 +73,8 @@
         "46a26029-256d-45c2-9caf-d40cd3278208",
         "buy_buttons",
         "description",
-        "share"
+        "share",
+        "4c75fa57-5766-4d55-9412-c86aef246682"
       ],
       "settings": {
         "enable_sticky_info": true,
