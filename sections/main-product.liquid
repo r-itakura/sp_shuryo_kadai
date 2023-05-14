@@ -311,15 +311,6 @@
               {% render 'product-variant-picker', product: product, block: block, product_form_id: product_form_id %}
             {%- when 'buy_buttons' -%}
               {%- render 'buy-buttons', block: block, product: product, product_form_id: product_form_id, section_id: section.id, show_pickup_availability: true -%}
-
-<!-- <p class="line-item-property__field">
-  <label>ギフトをご希望の方はメッセージカードを選択してください</label><br>
-  <input type="radio" name="properties[ギフトをご希望の方はメッセージカードを選択してください]" value="HappyBirthDay"> <span>HappyBirthDay</span><br>
-  <input type="radio" name="properties[ギフトをご希望の方はメッセージカードを選択してください]" value="Congratulations!"> <span>Congratulations!</span><br>
-  <input type="radio" name="properties[ギフトをご希望の方はメッセージカードを選択してください]" value="おめでとうございます！"> <span>おめでとうございます！</span><br>
-  <input type="radio" name="properties[ギフトをご希望の方はメッセージカードを選択してください]" value="内祝"> <span>内祝</span><br>
-</p> -->
-            
             {%- when 'rating' -%}
               {%- if product.metafields.reviews.rating.value != blank -%}
                 {% liquid
