@@ -45,6 +45,13 @@
             "show_gift_card_recipient": false
           }
         },
+        "4c75fa57-5766-4d55-9412-c86aef246682": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.metafields.custom.item_info.value }}",
+            "text_style": "body"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -54,13 +61,6 @@
           "type": "share",
           "settings": {
             "share_label": "Share"
-          }
-        },
-        "4c75fa57-5766-4d55-9412-c86aef246682": {
-          "type": "text",
-          "settings": {
-            "text": "{{ product.metafields.custom.item_info.value }}",
-            "text_style": "body"
           }
         }
       },
@@ -72,9 +72,9 @@
         "quantity_selector",
         "46a26029-256d-45c2-9caf-d40cd3278208",
         "buy_buttons",
+        "4c75fa57-5766-4d55-9412-c86aef246682",
         "description",
-        "share",
-        "4c75fa57-5766-4d55-9412-c86aef246682"
+        "share"
       ],
       "settings": {
         "enable_sticky_info": true,
@@ -110,15 +110,18 @@
     },
     "0d64fb3e-3b8e-43c6-8fc7-47b0ba270dce": {
       "type": "collection-list",
+      "disabled": true,
       "blocks": {
         "template--18606004076849__0d64fb3e-3b8e-43c6-8fc7-47b0ba270dce-16810262632a52c1b1-0": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "recommend"
           }
         },
         "0c4924ae-749e-4d68-9570-242841cc2c4a": {
           "type": "featured_collection",
+          "disabled": true,
           "settings": {
             "collection": "新商品"
           }
@@ -143,6 +146,7 @@
     },
     "d01f3efa-63dc-4c65-ba49-3c7c4c8447c1": {
       "type": "contact-form",
+      "disabled": true,
       "settings": {
         "heading": "お問い合わせ",
         "heading_size": "h2",
