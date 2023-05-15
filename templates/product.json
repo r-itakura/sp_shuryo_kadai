@@ -47,6 +47,7 @@
         },
         "4c75fa57-5766-4d55-9412-c86aef246682": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "{{ product.metafields.custom.item_info.value }}",
             "text_style": "body"
