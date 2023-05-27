@@ -39,10 +39,10 @@
             "text_alignment_mobile": "center"
           }
         },
-        "19140922-8fc9-4725-8789-9d90795e62b1": {
+        "a44e6c0f-e88d-4a00-abf2-ec311c3d4085": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/blue-seascape.jpg",
+            "image": "shopify:\/\/shop_images\/cosmetic-containers.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
@@ -61,7 +61,7 @@
       "block_order": [
         "template--18516450443569__bb0ae563-1d38-455a-9a31-7791fba4ba15-16804185118de73745-0",
         "db1d8ffc-754f-4756-ac36-152bfe809399",
-        "19140922-8fc9-4725-8789-9d90795e62b1"
+        "a44e6c0f-e88d-4a00-abf2-ec311c3d4085"
       ],
       "settings": {
         "layout": "full_bleed",
