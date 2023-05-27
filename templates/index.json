@@ -7,8 +7,8 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/handmade-natural-soap-with-ingredients.jpg",
-            "heading": "",
-            "heading_size": "h1",
+            "heading": "高品質な植物由来化粧品を全ての人へ",
+            "heading_size": "h2",
             "subheading": "",
             "button_label": "",
             "link": "",
@@ -16,7 +16,7 @@
             "box_align": "middle-center",
             "show_text_box": false,
             "text_alignment": "center",
-            "image_overlay_opacity": 20,
+            "image_overlay_opacity": 0,
             "color_scheme": "background-1",
             "text_alignment_mobile": "center"
           }
