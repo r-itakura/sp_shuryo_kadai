@@ -45,14 +45,6 @@
             "show_gift_card_recipient": false
           }
         },
-        "4c75fa57-5766-4d55-9412-c86aef246682": {
-          "type": "text",
-          "disabled": true,
-          "settings": {
-            "text": "{{ product.metafields.custom.item_info.value }}",
-            "text_style": "body"
-          }
-        },
         "description": {
           "type": "description",
           "settings": {
@@ -73,7 +65,6 @@
         "quantity_selector",
         "46a26029-256d-45c2-9caf-d40cd3278208",
         "buy_buttons",
-        "4c75fa57-5766-4d55-9412-c86aef246682",
         "description",
         "share"
       ],
