@@ -2,7 +2,6 @@
   "sections": {
     "bb0ae563-1d38-455a-9a31-7791fba4ba15": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--18516450443569__bb0ae563-1d38-455a-9a31-7791fba4ba15-16804185118de73745-0": {
           "type": "slide",
@@ -53,7 +52,7 @@
         "change_slides_speed": 5,
         "image_behavior": "none",
         "show_text_below": true,
-        "accessibility_info": "Slideshow about our brand"
+        "accessibility_info": "LDA COSMEE"
       }
     },
     "571c10ff-ac06-4e91-b822-8537b6e0c819": {
